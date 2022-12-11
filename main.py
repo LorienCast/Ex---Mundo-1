@@ -1,4 +1,4 @@
-from ex115 import *
+from functions import *
 from time import sleep
 from emoji import emojize
 archive = open('DataBase.txt', 'a') # Create a text file, which will be working as a 'Data Base'.
